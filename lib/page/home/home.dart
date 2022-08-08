@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:quiz_app/widgets/home/quiz_widget.dart';
-import 'package:quiz_app/widgets/home/result_widget.dart';
+import 'package:quiz_app/page/home/widgets/quiz_widget.dart';
+import 'package:quiz_app/page/home/widgets/result_widget.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
